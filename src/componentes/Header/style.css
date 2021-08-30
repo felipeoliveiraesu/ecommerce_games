@@ -1,0 +1,25 @@
+.header{
+    display:flex ;
+    height:100px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    min-width:100%;
+    align-items: center;
+    justify-content: space-between;
+  
+  
+}
+
+.logo{
+
+    margin:30px;
+    font-size: 30px;
+    max-width: 100px;
+    
+
+}
+
+.cart{
+    margin:30px;
+    font-size: 30px;
+    
+}

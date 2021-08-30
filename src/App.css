@@ -1,0 +1,47 @@
+.root{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+  
+   
+}
+
+
+.CardProdutos{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 800px;
+    
+}
+
+
+.freteValor{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    min-width:100% ;
+    justify-content: space-between; 
+
+}
+
+.frete{
+
+    margin: 40px;
+    font-size: 30px;
+
+}
+
+
+.valor{
+
+    margin: 40px;
+    font-size: 30px;
+
+}
